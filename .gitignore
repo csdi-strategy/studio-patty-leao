@@ -1,0 +1,18 @@
+# Ignorar pastas de dependências (caso você venha a usar Node.js/NPM no futuro)
+node_modules/
+
+# Ignorar pastas do Expo (caso esteja usando React Native)
+.expo/
+
+# Ignorar arquivos de senhas e configurações sensíveis
+.env
+.env.local
+
+# Ignorar arquivos de log (que só fazem volume)
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# Ignorar lixo gerado pelo Windows ou Mac
+.DS_Store
+Thumbs.db
