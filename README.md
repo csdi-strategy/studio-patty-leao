@@ -1,4 +1,4 @@
-# 💇‍♀️ Studio Patty Leão - Plataforma Digital Integrada
+# ✂️ Studio Patty Leão - Plataforma Digital Integrada
 > **Desenvolvido por CSDI STRATEGY** | *"O futuro não improvisa."*
 
 ## 💻 Sobre o Projeto
